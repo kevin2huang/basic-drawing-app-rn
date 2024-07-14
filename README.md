@@ -14,6 +14,8 @@ A drawing board application built with `Path` from `react-native-svg`. In additi
 
 ## Demo
 
+https://github.com/user-attachments/assets/ffff80e6-ac8f-4122-989c-85ef93f1e192
+
 ## Getting Started
 
 ### Prerequisites
