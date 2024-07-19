@@ -1,4 +1,4 @@
-# Basic Drawing App in React Native
+# Drawing App in React Native
 
 A drawing board application built with `Path` from `react-native-svg`. In addition, it has some basic functionality like color picker, pen thickness selection, erasing capabilities, undo, and clear canvas. This project also includes a basic setup for localization using i18n.
 
